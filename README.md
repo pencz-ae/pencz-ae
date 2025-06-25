@@ -20,6 +20,11 @@
 
 ---
 
+### 🌎 Languages
+- Portuguese (Native)
+- English (Fluent)
+- Polish (Upper-Intermediate)
+
 ### ✉️ Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/penczkoski/)
