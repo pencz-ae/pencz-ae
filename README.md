@@ -3,17 +3,16 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <!-- Dark mode: usa cor branca -->
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=1000&color=FFFFFF&lines=Hi,+I’m+Aeon!;29+years+old;From+Brazil+living+in+Poland;Data+Scientist+%26+Philosophy+Graduate;Welcome!" />
-      <!-- Light mode: usa sua cor principal (verde, por exemplo) -->
+        srcset="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=1000&color=FFFFFF&duration=1000&lines=Hi,+I%27m+Aeon!;29+years+old;From+Brazil+living+in+Poland;Data+Scientist+%26+Philosophy+Graduate;Welcome!" />
       <img
         alt="Typing SVG"
-        src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=1000&color=3f9248&lines=Hi,+I’m+Aeon!;29+years+old;From+Brazil+living+in+Poland;Data+Scientist+%26+Philosophy+Graduate;Welcome!" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=1000&color=3f9248&duration=1000&lines=Hi,+I%27m+Aeon!;29+years+old;From+Brazil+living+in+Poland;Data+Scientist+%26+Philosophy+Graduate;Welcome!" />
     </picture>
   </a>
 </p>
+
 
 
 
