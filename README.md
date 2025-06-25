@@ -12,9 +12,11 @@
 ### 👋 About Me
 
 - 🌎 Originally from **Brazil** 🇧🇷, currently living in **Poland** 🇵🇱  
-- 🎓 **Philosophy Graduate** turned **Data Scientist**  
+- 🎓 **Philosophy Graduate** turned **Data Scientist**
+- 💼 Research Analyst at LSEG
 - 🛠️ Building solutions with data, statistics & code  
 - 🗣️ Languages: Portuguese (native), English, Polish and Spanish
+- 📖 Currently studying DataScience at **EBAC**
 
 ---
 
