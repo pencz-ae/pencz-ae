@@ -16,7 +16,7 @@
 - 💼 Research Analyst at **LSEG *(London Stock Exchange Group)***
 - 🛠️ Building solutions with data, statistics & code  
 - 🗣️ Languages: Portuguese (native), English, Polish and Spanish
-- 📖 Currently studying DataScience at **EBAC**
+- 📖 Currently studying Data Science at **EBAC *Escola Britânica de Artes Criativas & Tecnologia***
 
 ---
 
