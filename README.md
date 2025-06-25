@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Aeon;I'm+29+years+old;I'm+from+Brazil,but+living+in+Poland;Data+Scientist+and+Philosophy+Graduate;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Java%20Script%20-grey?style=for-the-badge&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+
 
 
 <!--
