@@ -11,9 +11,9 @@
 
 ### 👋 About Me
 
-- 🌎 Originally from **Brazil** 🇧🇷, currently living in **Poland** 🇵🇱  
+- 🌎 Originally from **Brazil**, currently living in **Poland**  
 - 🎓 **Philosophy Graduate** turned **Data Scientist**
-- 💼 Research Analyst at LSEG
+- 💼 Research Analyst at **LSEG *(London Stock Exchange Group)***
 - 🛠️ Building solutions with data, statistics & code  
 - 🗣️ Languages: Portuguese (native), English, Polish and Spanish
 - 📖 Currently studying DataScience at **EBAC**
