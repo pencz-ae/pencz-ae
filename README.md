@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38d249&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&color=3f9248&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Aeon;I'm+29+years+old;I'm+from+Brazil,+but+living+in+Poland;Data+Scientist+and+Philosophy+Graduate;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&color=3f9248&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Aeon;I'm+29+years+old;I'm+from+Brazil,+but+living+in+Poland;Data+Scientist+and+Philosophy+Graduate;Welcome!)](https://git.io/typing-svg)
+
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
